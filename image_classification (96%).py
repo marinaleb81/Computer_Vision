@@ -12,12 +12,19 @@ from datetime import datetime
 import cv2
 import matplotlib.pyplot as plt
 import random
+import os
+
+script_dir = os.path.dirname(os.path.abspath(__file__))
 
 # Конфигурация с вынесенными параметрами для простоты
 CONFIG = {
-    # Пути к данным
-    "test_dir": r"e:\Python_projects\Machine_Learning\pythonProject\Компьютерное зрение\test",
-    "train_dir": r"e:\Python_projects\Machine_Learning\pythonProject\Компьютерное зрение\train",
+    # Пути к данным локальные
+    #"test_dir": r"e:\Python_projects\Machine_Learning\pythonProject\Компьютерное зрение\test",
+    #"train_dir": r"e:\Python_projects\Machine_Learning\pythonProject\Компьютерное зрение\train",
+    
+    # Пути к данным при выгрузке
+    "test_dir": os.path.join(script_dir, "test"),
+    "train_dir": os.path.join(script_dir, "train"),
 
     # Основные параметры обучения
     "image_size": (512, 512),  # Размер изображений для модели, было 448 - увеличение хорошо сказалось "image_size": (512, 512)
