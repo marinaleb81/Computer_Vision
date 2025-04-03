@@ -1,0 +1,141 @@
+statement_general - get a document of some undefined type. 
+incomestat - get an income statement
+conform - get a document that proofs that a person belongs to a university
+transcript - get a student transcript 
+loc_cafeteria_new_building_general - find a cafe in building
+loc_cafeteria_new_building_1_etage - find a cafe in building (1 store)
+loc_cafeteria_new_building_2_etage - find a cafe in building (2 store)
+loc_cafeteria_new_building_3_etage - find a cafe in building (3 store)
+loc_cafeteria_new_building_4_etage - find a cafe in building (4 store)
+sched_general - get a schedule of classes
+sched_location - find a place where a schedule can be checked
+sched_exam - get a schedule of exams
+sched_rings	- get a timetable of breaks and classes
+sched_teacher_how - how to get a schedule of a teacher
+lost_card_general - what to do if a card was lost
+studentcard_lost - what to do if a student card was lost
+dormcard_lost - what to do if a dormitory card was lost
+scholarship_general - how to get a scholarship of any type
+stdscholarship - how to get a standard state scholarship
+highscholarship	- how to get a high state scholarship
+socscholarship - how to get a social state scholarship
+loc_dean_general - where is a dean of any faculty
+loc_dean_ef - where is a dean of the economics faculty
+loc_dean_ff - where is a dean of the physics faculty
+loc_dean_fen - where is a dean of the science faculty
+loc_dean_mmf - where is a dean of the mathematics faculty
+loc_dean_ggf - where is a dean of the geology faculty
+loc_dean_fit - where is a dean of the computer science faculty
+loc_dean_hi - where is a dean of the linguistics faculty
+loc_dean_med - where is a dean of the medical faculty
+loc_dean_ph - where is a dean of the philosophy faculty
+trade_union_general - how to join a union of any type
+staff_trade_union_enter - how to join a staff union
+student_trade_union_enter - how to join a student union
+location_general - find out about locations
+loc_nuclphysinstitute - find out an institute of nuclear physics
+loc_newcorpus - find out a new university building 
+loc_nsu_commisariat_office - find out a commisariat office
+loc_nsu_cafeteria - find out a cafeteria in campus
+status_akadem - how to make a break from the university
+loc_coworking - find out a coworking place
+loc_atm - find out an ATM
+enter_university_without_pass - how to enter university without a student card
+events_define - what campus event are coming 
+loc_oldcorpus - find out an old university building 
+loc_sobolev_institute - find out a mathematics institute 
+dorm_pets - is it allowed to have pets in dormitory
+scholarship_payday - when is a scholarship payday
+smalltalk_bye - bye
+smalltalk_skills - what chatbot is able to do
+loc_compcenter - find out a computational center
+loc_geologymineralogyinstitute - find out a geology and mineralogy institute
+nsunet_cost - how much internet in the campus costs
+studentpsychhelp_define - how to get psychological help in the campus
+pay_online_dorm - how to pay for dormitory online
+sched_nsu_commisariat_office - what is schedule of a commisariat office 
+status_free - how to leave a university
+holidays_def - when are holidays
+cvvr_define - what is cvvr in the campus
+student_union_chorus - how to join a student chorus
+dorm_living - what to take in a dormitory
+dorm_price - how much a room in a dormitory costs
+sched_teacher - schedule of a teacher
+loc_dorm - where are dormitories
+studentorgs_define - what students organization there are 
+loc_stationery - where to buy stationery
+smalltalk_greetings - greetings
+status_kickout - why a student can be kicked out from university
+officertraining_def - is there a officer training department in the university
+dorm_guests - can a student bring guests in dormitory
+loc_lawinstitute - where is a law institute
+loc_cafeteria_old_building - where is a cafeteria in an old university building
+loc_walk - where are the best places to walk in a town.
+loc_automationelectrometryinstitute - find out an automation and electrometry institute
+loc_print_docs - where a student can print documents
+smalltalk_creator - who is an author of this chatbout 
+grade_mistake - what to do if there is a mistake in a grades card.
+grade_improve - how to improve a grade for exam
+list_orders - how to see a list of orders concerning a student
+loc_commissariat - where is a commissariat 
+loc_histinstitute - find out a history institute 
+stat_numb_of_academics - how many there are academic staff in the university
+sched_for_group_day - get a schedule for a student group on a specific day
+find_friends - how find friends in a campus
+site_nsu - what is the site of the university
+superadviser_find_mmf - how to find a superviser in a mathematics faculty.
+student_union_create - how to create a student organization
+pay_nsunet_online - how to pay for the campus internet online
+tuition_fee - that is the tuition free
+loc_library - find out a library
+site_student_cab - what is a site for a student web-account
+pay_educ_discount - how to get a discount for tuition
+pay_offline_dorm - how to pay for a dormitory room offline
+campus_map - how to get a campus map
+loc_pass_office - where is a pass office
+loc_torgovy_center - find out a shopping mall
+student_union_zoom - get a zoom romm for a student union
+loc_passport_office - find out a passport office
+travelfinaid_def - what is a travel financial aid
+loc_cashbox - find out a university chashbox
+loc_gym - gind out a unversity gym
+library_books - what to do if library books are brought too late
+price_recourse - how much it costs to retake a course
+exam_define - get information about exams
+loc_eat - find out an eating place
+loc_chiminstitute - find out the institute of inorganic chemistry
+status_leave - how to leave a university
+smalltalk_name - what is the name of this chatbot
+advice_okno - what to do in the gap between classes
+advice_learning - how to be seccussful in learning
+studentpass - how to get a student pass for public transport
+student_union_event_room - how to get a room for a student union event
+student_union_room - how to get a meeting room for a student union
+wifi - how to get wifi in a campus
+smalltalk_talk - want to talk with the chatbout
+loc_shop - find out a convinient shop
+weather - what is a weather
+loc_clinic - find out a medical clinic in a town
+loc_philologyinstitute - find out a philology institute
+volunteer_become - how to become a volunteer
+loc_termophysinstitute - find out a termophysicics institute
+diploma_red_def - how to get a diploma with excellence
+student_union_equipment - how to get equipment for a student union 
+finassist - how to get a financial aid
+loc_cytologygeneticsinstitute - find out a cytology and genetics institute
+dorm_enter_without_pass - how to enter a dormitory without a pass
+loc_math_school - find out a mathematics school
+travelfinaid_get - how to get travel financial aid
+math_center_def - what is a mathematics center
+name_rector - what is a name of the university rector
+student_union_print - how to print material for a student union
+study_help_math - how to get help for studying mathematics 
+sched_for_group - get a schedule for a student group
+loc_accounting - find out an accounting office 
+nsunet - get the internet in a dormitory
+photoclub_define - what is a student photoclub
+loc_pharm - find out a pharmacy
+site_library - what is a site for the university library
+student_union_event_guests - how a student union can invite guests
+stat_numb_of_students - how many students there are in the university
+student_union_subscription - how to subscribe for a student union news

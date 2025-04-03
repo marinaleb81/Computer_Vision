@@ -1,0 +1,883 @@
+как получить справку	statement_general
+мне нужна справка	statement_general
+справка студента эф петь	conform
+справка студента фф оформлять	conform
+как мне заказать справка об обучении	conform
+справка студента фит оформить	conform
+справка студента как мне заказать	conform
+справка об обучении получать	conform
+справка студента ммф оформлять	conform
+справка о обучении как мне заказать	conform
+справка студента эф брать	conform
+получать справка студента фит	conform
+заказать справка студента ггф	conform
+взять справка студента фф	conform
+находится автор	smalltalk_creator
+автор расположен где	smalltalk_creator
+находится созидатель	smalltalk_creator
+распологается где создатель	smalltalk_creator
+расположен где отец	smalltalk_creator
+До скорого.	smalltalk_bye
+Все, покедова	smalltalk_bye
+Рад был с вами поболтать	smalltalk_bye
+Спасибо за приятное общение, до встречи.	smalltalk_bye
+пока бот 	smalltalk_bye
+плата за общежитие распологается где	dorm_price
+стоимость общежития расположен где	dorm_price
+цена общежития	dorm_price
+оставил в комнате пропуск в шестерку что делать в этой ситуации	dormcard_lost
+бот я потерял свой пропускной в общежитие номер шесть что мне делать спасибо	dormcard_lost
+мой друг пропускной в свою общагу что делать в этой ситуации пожалуйста	dormcard_lost
+интересный находится	events_define
+событие находится	events_define
+стоять событие	events_define
+как мне заказать помощь денежный	finassist
+где есть помощь денежный	finassist
+право на помощь материальный получать	finassist
+получать матпомощь	finassist
+распологается где помощь денежный	finassist
+матпомощь петь	finassist
+право на помощь материальный как мне заказать	finassist
+матпомощь оформить	finassist
+матпомощь получить	finassist
+выплата социальная находится	finassist
+помощь денежный получить	finassist
+балл экзаменационный улучшить	grade_improve
+что мне нужно для того чтобы улучшить бал за зачёт по физике плиз	grade_improve
+как и когда можно улучшить отметку за зачет подскажи	grade_improve
+как можно исправить оценку экзамен по экологии подскажи	grade_improve
+оценка неправильная стоит в зачётке че делать	grade_mistake
+оценка неверная	grade_mistake
+как получить стипендию если у меня тройка	scholarship_general
+кто имеет право на стипендию пожалуйста	scholarship_general
+где есть диплом с отличием	diploma_red_def
+диплом красный получать	diploma_red_def
+получаться диплом красный	diploma_red_def
+получать справка доходный	incomestat
+справка о доходах получаться	incomestat
+как мне заказать справка доходный	incomestat
+отыскать бухгалтер	loc_accounting
+как пройти бухгалтер	loc_accounting
+как пройти бухгалтерия	loc_accounting
+где поесть что-нибудь в главном корпусе пожалуйста	loc_cafeteria_new_building_general
+точку питания в корпусе новом	loc_cafeteria_new_building_general
+где медклиника здесь	loc_clinic
+отыскать больничка	loc_clinic
+отыскать врач	loc_clinic
+как больница отыскать	loc_clinic
+как медклиника находится	loc_clinic
+как находится клиника	loc_clinic
+найти больница	loc_clinic
+а где здесь секретариат	loc_dean_general
+мне нужно найти декан	loc_dean_general
+эф раскопать	loc_dean_ef
+деканат эф найти	loc_dean_ef
+деканат эф как пройти	loc_dean_ef
+эф где есть	loc_dean_ef
+распологается где деканат факультета экономики	loc_dean_ef
+эф находится	loc_dean_ef
+найти деканат факультета естественных наук	loc_dean_fen
+деканат факультета естественных наук где есть	loc_dean_fen
+деканат фен раскопать	loc_dean_fen
+деканат фф где есть	loc_dean_ff
+отыскать деканат фф	loc_dean_ff
+отыскать деканат физического факультета	loc_dean_ff
+деканат факультета информационных технологий раскопать	loc_dean_fit
+где есть деканат фит	loc_dean_fit
+расположен где деканат фит	loc_dean_fit
+отыскать деканат ггф	loc_dean_ggf
+деканат геолого геофизического факультета	loc_dean_ggf
+отыскать деканат геолого геофизического факультета	loc_dean_ggf
+распологается где деканат геолого геофизического факультета	loc_dean_ggf
+деканат ги раскопать	loc_dean_hi
+находится деканат ги	loc_dean_hi
+ги обнаружить	loc_dean_hi
+находится ги	loc_dean_hi
+найти деканат института медицины и психологии	loc_dean_med
+деканат факультета медицины и психологии найти	loc_dean_med
+распологается где деканат факультета медицины и психологии	loc_dean_med
+деканат института медицины и психологии расположен где	loc_dean_med
+деканат ифп деканат ифп раскопать	loc_dean_ph
+обнаружить деканат института философии и права	loc_dean_ph
+деканат ифп разыскать	loc_dean_ph
+общага раскопать	loc_dorm
+общаг найти	loc_dorm
+где есть общежитие	loc_dorm
+общага находится	loc_dorm
+где есть общага	loc_dorm
+зал спортивный отыскать	loc_gym
+распологается где спортивный	loc_gym
+спортзал распологается где	loc_gym
+спортзал находится	loc_gym
+найти спортивный	loc_gym
+спортик где есть	loc_gym
+расположен где библиотечка	loc_library
+библиотечка отыскать	loc_library
+библиотека раскопать	loc_library
+заказать книженция	loc_library
+библиотека пройти	loc_library
+где есть библиотека	loc_library
+заказать книжка	loc_library
+находится институт математики вычислительной	loc_compcenter
+пройти институт математики вычислительной	loc_compcenter
+как пройти институт математики вычислительной	loc_compcenter
+обнаружить институт математики вычислительной	loc_compcenter
+институт геофизика математическая находится	loc_compcenter
+ехать центр информационных и вычислительных технологий	loc_compcenter
+будкер пройти	loc_nuclphysinstitute
+будкер найти	loc_nuclphysinstitute
+будкер находится	loc_nuclphysinstitute
+институт физики ядерной попасть	loc_nuclphysinstitute
+разыскать институт физики ядерной	loc_nuclphysinstitute
+институт цитологии и генетики со ран находится	loc_cytologygeneticsinstitute
+найти институт цитологии и генетики со ран	loc_cytologygeneticsinstitute
+институт геологии находится институт геологии и минералогии со ран	loc_geologymineralogyinstitute
+где есть институт геологии	loc_geologymineralogyinstitute
+институт минералогии находится	loc_geologymineralogyinstitute
+институт минералогии раскопать	loc_geologymineralogyinstitute
+институт геологии и минералогии со ран доехать	loc_geologymineralogyinstitute
+институт геологии и минералогии со ран как пройти	loc_geologymineralogyinstitute
+идти институт электрометрии	loc_automationelectrometryinstitute
+институт электрометрии ехать институт автоматики	loc_automationelectrometryinstitute
+доехать институт автоматики и электрометрии со ран	loc_automationelectrometryinstitute
+институт электрометрии идти	loc_automationelectrometryinstitute
+институт электрометрии	loc_automationelectrometryinstitute
+попасть институт электрометрии	loc_automationelectrometryinstitute
+институт автоматики находится	loc_automationelectrometryinstitute
+найти институт электрометрии	loc_histinstitute
+институт электрометрии попасть	loc_histinstitute
+институт электрометрии как пройти	loc_histinstitute
+институт электрометрии где есть	loc_histinstitute
+институт электрометрии раскопать	loc_histinstitute
+пройти институт электрометрии	loc_histinstitute
+раскопать институт автоматики	loc_philologyinstitute
+находится институт электрометрии	loc_philologyinstitute
+институт электрометрии найти	loc_philologyinstitute
+институт автоматики и электрометрии со ран как пройти	loc_philologyinstitute
+институт электрометрии где есть	loc_philologyinstitute
+институт автоматики идти	loc_philologyinstitute
+распологается где институт автоматики и электрометрии со ран	loc_philologyinstitute
+распологается где институт электрометрии	loc_lawinstitute
+ехать институт автоматики	loc_lawinstitute
+отыскать институт автоматики и электрометрии со ран	loc_lawinstitute
+институт автоматики и электрометрии со ран находится	loc_lawinstitute
+институт электрометрии где есть	loc_lawinstitute
+попасть институт электрометрии	loc_lawinstitute
+институт автоматики и электрометрии со ран расположен где	loc_lawinstitute
+находится институт автоматики и электрометрии со ран	loc_chiminstitute
+пройти институт автоматики и электрометрии со ран	loc_chiminstitute
+институт автоматики и электрометрии со ран отыскать	loc_chiminstitute
+институт электрометрии расположен где	loc_chiminstitute
+институт автоматики расположен где	loc_chiminstitute
+расположен где институт автоматики	loc_chiminstitute
+идти институт электрометрии	loc_termophysinstitute
+расположен где институт автоматики	loc_termophysinstitute
+институт электрометрии найти	loc_termophysinstitute
+как пройти институт автоматики и электрометрии со ран	loc_termophysinstitute
+институт автоматики находится	loc_termophysinstitute
+институт автоматики и электрометрии со ран идти	loc_termophysinstitute
+институт автоматики разыскать	loc_termophysinstitute
+тц доехать	loc_torgovy_center
+как пройти к центру торговому	loc_torgovy_center
+центр торговый находится где	loc_torgovy_center
+распологается где тц	loc_torgovy_center
+школа математический пройти	loc_math_school
+школа математический отыскать	loc_math_school
+школа математический доехать	loc_math_school
+найти фмш	loc_math_school
+школа математический	loc_math_school
+касса нгу попасть	loc_cashbox
+отыскать касса	loc_cashbox
+касса расположен где	loc_cashbox
+касса нгу	loc_cashbox
+касса пройти	loc_cashbox
+идти касса в нгу	loc_cashbox
+как дойти до новое здание НГУ плиз	loc_newcorpus
+покажи мне новое здание НГУ пожалуйста	loc_newcorpus
+а где тут корпус новый подскажи	loc_newcorpus
+найти корпус административный	loc_newcorpus
+раскопать корпус административный	loc_newcorpus
+распологается где корпус главный	loc_newcorpus
+корпус новый обнаружить	loc_newcorpus
+стол военный расположен где	loc_nsu_commisariat_office
+распологается где стол военноучетный	loc_nsu_commisariat_office
+где есть стол военный	loc_nsu_commisariat_office
+стол военный разыскать	loc_nsu_commisariat_office
+старый корпус плз	loc_oldcorpus
+как дойти до старое здание НГУ пожалуйста	loc_oldcorpus
+расположен где корпус старый	loc_oldcorpus
+стол паспортный обнаружить	loc_passport_office
+требоваться лекарства	loc_pharm
+аптека находится	loc_pharm
+аптекарь расположен где	loc_pharm
+аптека где есть	loc_pharm
+разыскать аптека	loc_pharm
+аптечка	loc_pharm
+отксерить документ	loc_print_docs
+документ распечатать	loc_print_docs
+доброволец где распологается	volunteer_become
+расположен где волонтерский центр	volunteer_become
+встреча объединения студенческого аудитория получить	student_union_room
+как получить аудитория встреча объединения студенческого	student_union_room
+получить зал	student_union_event_room
+зал цввр как получить	student_union_event_room
+зал большой как взять	student_union_event_room
+цввр оборудование брать	student_union_equipment
+получить оборудование для проведения мероприятий центр по внеучебной и воспитательной работе	student_union_equipment
+центр по внеучебной и воспитательной работе оборудование для проведения мероприятий студенческого объединения получить	student_union_equipment
+оформлять печать символики	student_union_print
+я бы хотел сделать печать символики для студенческого объединения	student_union_print
+нам нужно сделать печать символики для клуба	student_union_print
+сформировать со	student_union_create
+зарегистрировать отряд студенческий	student_union_create
+осуществить студорганизация	student_union_create
+отряд студенческий осуществить	student_union_create
+создать объединение студенческий нгу	student_union_create
+кружок регистрировать	student_union_create
+со создать	student_union_create
+сформировать организацию студенческую	student_union_create
+zoom конфу заказать	student_union_zoom
+как получить zoom конференция	student_union_zoom
+zoom встреча брать	student_union_zoom
+сеанс zoom заказать	student_union_zoom
+где есть центр по внеучебной и воспитательной работе	cvvr_define
+расположен где центр по внеучебной и воспитательной работе	cvvr_define
+расположен где клуб студенческий психологический	studentpsychhelp_define
+поддержка психологическая где тут находится	studentpsychhelp_define
+спк находится	studentpsychhelp_define
+спк где есть	studentpsychhelp_define
+получить клуб студенческий психологический	studentpsychhelp_define
+спк расположен где	studentpsychhelp_define
+расположен где фотоклуб	photoclub_define
+сообщество фотографов находится	photoclub_define
+расположен где призывной пункт	loc_commissariat
+призывной пункт расположен где	loc_commissariat
+распологается где военкомат	loc_commissariat
+призывной пункт расположен где	loc_commissariat
+военкомат как пройти	loc_commissariat
+где тут находится пропуск в общежитие для родителя	dorm_guests
+в общагу гость впустить	dorm_guests
+в общагу родственики провести	dorm_guests
+находится пропуск гостей в общежитие	dorm_guests
+провести родственики в общагу	dorm_guests
+общежитие человек приглашенный провести	dorm_guests
+где есть пропуск в общежитие для родителя	dorm_guests
+разрешение на вход гостей в общежитие брать	dorm_guests
+разрешение на вход гостей в общежитие где тут находится	dorm_guests
+в общагу кошка расположен где	dorm_pets
+общежитие кошка иметь	dorm_pets
+кошка в общагу	dorm_pets
+собака в общагу это норм?	dorm_pets
+общежитие питомец можно нет?	dorm_pets
+содержать питомеца в общаге разрешено?	dorm_pets
+хор распологается где	student_union_chorus
+хочу знать графика военного стола нгу пожалуйста	sched_nsu_commisariat_office
+какой там график военного стола универа плиз	sched_nsu_commisariat_office
+что нибудь насчет график военного стола универа пожалуйста	sched_nsu_commisariat_office
+где есть график работы военного стола	sched_nsu_commisariat_office
+имя ректора нгу где есть	name_rector
+находится имя ректора нгу	name_rector
+список приказов распологается где	list_orders
+смотреть список приказов	list_orders
+канцелярия закупаться	loc_stationery
+канцелярия покупать	loc_stationery
+тетрадь закупаться	loc_stationery
+находится аудитория в корпусах учебных нгу	campus_map
+аудитория где есть	campus_map
+скинуть карта нгу	campus_map
+кабинет распологается где	campus_map
+карта нгу предоставить	campus_map
+дать карта корпусов	campus_map
+как пройти аудитория в корпусах учебных нгу	campus_map
+план корпусов расположен где	campus_map
+кабинет кафедры обнаружить	campus_map
+находится аудитория	campus_map
+распологается где аудитория в корпусах учебных нгу	campus_map
+аудитория в корпусах учебных нгу	campus_map
+где погулять в академе	loc_walk
+где что нибудь гулять	loc_walk
+где погулять	loc_walk
+в чем смысл твоего существования?	smalltalk_skills
+ты что нибудь умеешь	smalltalk_skills
+что именно можешь делать пожалуйста	smalltalk_skills
+привет мир	smalltalk_greetings
+хэллоу	smalltalk_greetings
+Привет, буду рад пообщаться	smalltalk_greetings
+Привет	smalltalk_greetings
+Доброе утро	smalltalk_greetings
+Завтра ожидаются погода без существенных осадков?	weather
+Послезавтра пасмурно?	weather
+какая погода в новосибирске	weather
+где есть погода	weather
+градус распологается где	weather
+температура расположен где	weather
+штудировать студент ммф сколько	stat_numb_of_students
+как много студентов фф	stat_numb_of_students
+сколько студентов фен учиться	stat_numb_of_students
+находится студент ггф сколько	stat_numb_of_students
+сколько студентов фит где есть	stat_numb_of_students
+готовиться студент эф сколько	stat_numb_of_students
+сколько студентов фен	stat_numb_of_students
+сколько студентов фф где тут находится	stat_numb_of_students
+осваивать студент эф сколько	stat_numb_of_students
+сколько студентов распологается где	stat_numb_of_students
+сколько студентов учиться	stat_numb_of_students
+где тут находится студент ггф сколько	stat_numb_of_students
+сколько студентов фен где тут находится	stat_numb_of_students
+расположен где студент фф сколько	stat_numb_of_students
+перенимать студент фен сколько	stat_numb_of_students
+какое количество преподовподскажи	stat_numb_of_academics
+какое количество лекторов и семинаристов в нгу	stat_numb_of_academics
+перенимать лектор сколько	stat_numb_of_academics
+заниматься преподаватель сколько	stat_numb_of_academics
+мне нужно знать про выходные длинные подскажи	holidays_def
+в какие дни выходные длинные подскажи	holidays_def
+существовуют тут каникулы	holidays_def
+как оплатить нсунет через сайт	pay_nsunet_online
+где заплатить безналом интернет	pay_nsunet_online
+как оплатить онлайн за сеть интернет	pay_nsunet_online
+как оплатить онлайн за инет	pay_nsunet_online
+я хочу есть	loc_eat
+книгу что делать если потерял что делать	library_books
+когда проходят зачет	exam_define
+аттестация что такое помоги	exam_define
+что брать с собой в общаге	dorm_living
+какие вещи маст хэв для общежития скажешь нет	dorm_living
+какие вещи обычно берут комнату общаги 	dorm_living
+я хочу знать насчет того какие вещи нужно брать шестого общежития спасибо	dorm_living
+геолокация пожалуйста	location_general
+здесь есть университетские объединение	trade_union_general
+хочу эфффективно учиться 	advice_learning
+как мне эффективно учиться	advice_learning
+ну что как дела	smalltalk_talk
+чё как что ты любишь	smalltalk_talk
+в каком году нгу был основан	nsu_foundation_date
+где покупать кружка нгу	nsu_merch
+где можно взять мерч от нгу	nsu_merch
+где магазинв котором можно купить сувениры нгу	nsu_merch
+где покупать фирменный мерч	nsu_merch
+как пройти магазин?	loc_shop
+магаз раскопать)	loc_shop
+неважно покупать?	loc_shop
+расположен где магазин)	loc_shop
+товар приобретать!	loc_shop
+покупать что нибудь)	loc_shop
+неважно покупать)	loc_shop
+магаз разыскать!	loc_shop
+приобретать неважно?	loc_shop
+отыскать продуктовый.	loc_shop
+покупать.	loc_shop
+магазин как пройти.	loc_shop
+магазин найти)	loc_shop
+столовка отыскать.	loc_eat
+расположен где точка питания?	loc_eat
+где кафетерий находится.	loc_eat
+распологается где столовая.	loc_eat
+находится институт математики ран)	loc_sobolev_institute
+институт математики находится?	loc_sobolev_institute
+институт соболева обнаружить.	loc_sobolev_institute
+разыскать институт математики ран?	loc_sobolev_institute
+где есть институт математики ран)	loc_sobolev_institute
+институт соболева обнаружить!	loc_sobolev_institute
+распологается где центр математический)	math_center_def
+центр математический расположен где)	math_center_def
+стоимость интернета расположен где)	nsunet_cost
+подключить wifi комната в общежитии.	nsunet
+общаг интернет подключить)	nsunet
+интернет в общежитии подключить)	nsunet
+становиться абонентнсунет.	nsunet
+nsunet вступить)	nsunet
+комната в общежитии wifi вступить!	nsunet
+распологается где военка)	officertraining_def
+где совершается оплата койко место где это сделать!	pay_offline_dorm
+хочу заплатить за проживание в общежитии 7 пожалуйста?	pay_offline_dorm
+платить общага не выходя из дома)	pay_online_dorm
+заплатить онлайн за проживание?	pay_online_dorm
+вайфай в общежитии обходиться?	nsunet_cost
+обходиться интернет в общежитии.	nsunet_cost
+цена интернета?	nsunet_cost
+стоимость интернета находится?	nsunet_cost
+распологается где цена повторного курса?	price_recourse
+узнать стоимость повторного курса?	price_recourse
+узнать цена повторного курса?	price_recourse
+стоимость обучения расположен где)	tuition_fee
+находится цена обучения!	tuition_fee
+стоимость обучения.	tuition_fee
+как можно посидеть позаниматься после пар а?	advice_okno
+перерыв между парами ждать!	advice_okno
+как проверить расписание	sched_general
+как найти расписание семинаров	sched_general
+какое расписание.	sched_general
+узнать расписание звонков!	sched_rings
+суббота расписание 226331 группы!	sched_for_group_day
+без пропуск общаг ехать.	dorm_enter_without_pass
+пройти корпус без пропуск?	enter_university_without_pass
+попасть университет без пропуск?	enter_university_without_pass
+без пропуск университет идти?	enter_university_without_pass
+доехать здание без пропуск.	enter_university_without_pass
+без пропуск здание идти.	enter_university_without_pass
+без пропуск здание доехать.	enter_university_without_pass
+идти университет без пропуск)	enter_university_without_pass
+получать разрешение на внос оборудования?	student_union_equipment
+разрешение на вход для гостей мероприятия оформить?	student_union_event_guests
+вход для гостей мероприятия взять.	student_union_event_guests
+разрешение на вход для гостей мероприятия заказать.	student_union_event_guests
+находится пропуск для гостей мероприятия!	student_union_event_guests
+пропуск для гостей мероприятия получать!	student_union_event_guests
+получаться разрешение на вход для гостей мероприятия!	student_union_event_guests
+кабинет студента как пройти)	site_student_cab
+обнаружить кабинет студента!	site_student_cab
+кабинет личный как пройти?	site_student_cab
+личный кабинет студента!	site_student_cab
+личный кабинет студента где есть!	site_student_cab
+обнаружить сайт библиотеки)	site_library
+сайт библиотеки)	site_library
+распологается где сайт нгу.	site_nsu
+сайт нгу где есть.	site_nsu
+стоять сайт нгу вуз)	site_nsu
+дискаунт на обучение.	pay_educ_discount
+место бюджетный расположен где.	status_free
+распологается где бюджет)	status_free
+обучение на бюджете где есть!	status_free
+место бюджетный распологается где.	status_free
+wifi в университете присоединить)	wifi
+сеть университетский получаться.	wifi
+находится сеть университетский.	wifi
+wifi университета брать.	wifi
+сеть университетский получить?	wifi
+вуз интернет вступить)	wifi
+wifi в университете взять?	wifi
+вайфай в университете получить.	wifi
+расположен где wifi в университете!	wifi
+расположен где сеть университетский?	wifi
+брать интернет в университете?	wifi
+wifi в университете получать)	wifi
+сеть университетский распологается где)	wifi
+где есть wifi университета!	wifi
+находится вайфай университета!	wifi
+находится стипендия повышенная!	highscholarship
+оформление пгас хотеть.	highscholarship
+заказать повышенная государственная академическая стипендия)	highscholarship
+находится стипендия повышенная!	highscholarship
+повышенная государственная академическая стипендия находится.	highscholarship
+социалка находится.	socscholarship
+оформить соцстипендия)	socscholarship
+соцстипендия получаться?	socscholarship
+находится социалка)	socscholarship
+расписание сессии стоять.	sched_exam
+когда экз находится)	sched_exam
+находится расписание сессии)	sched_exam
+время экзам расположен где?	sched_exam
+расположен где экзамен когда?	sched_exam
+математический расположен где!	loc_dean_mmf
+распологается где математический)	loc_dean_mmf
+деканат механико математического факультета как пройти?	loc_dean_mmf
+деканат мехмата находится.	loc_dean_mmf
+ммф)	loc_dean_mmf
+факультет математико механический находится.	loc_dean_mmf
+математический!	loc_dean_mmf
+привет расскажи о себе плиз!	smalltalk_name
+привет кто ты плз.	smalltalk_name
+обнаружить офис пропусков.	loc_pass_office
+найти бюро пропусков!	loc_pass_office
+обнаружить офис пропусков)	loc_pass_office
+бюро пропусков расположен где?	loc_pass_office
+раскопать офис пропусков.	loc_pass_office
+расположен где офис пропусков.	loc_pass_office
+офис пропусков ехать)	loc_pass_office
+коворкинг где есть!	loc_coworking
+расположен где атм!	loc_atm
+атм разыскать!	loc_atm
+пройти банкомат.	loc_atm
+раскопать банкомат!	loc_atm
+отыскать банкомат.	loc_atm
+банкомат ехать!	loc_atm
+идти банкомат)	loc_atm
+найти товарищ?	find_friends
+раписание лектора находится.	sched_teacher_how
+продуктовый	loc_shop
+где лучшего всего покупать продукты	loc_shop
+магазин продуктовый обнаружить	loc_shop
+находится институт математики	loc_sobolev_institute
+институт математики раскопать	loc_sobolev_institute
+институт соболева отыскать	loc_sobolev_institute
+институт математики ран как пройти	loc_sobolev_institute
+где здесь находится матцентр	math_center_def
+распологается где матцентр	math_center_def
+расположен где центр математический	math_center_def
+комната интернет подключиться	nsunet
+вступить инет общаг	nsunet
+заказать справка студента фф	nsunet
+комната вайфай подключиться	nsunet
+присоединить вайфай общежитие	nsunet
+комната в общежитии инет вступить	nsunet
+подключить интернет комната в общежитии	nsunet
+nsunet вступить	nsunet
+стоять военка	officertraining_def
+кафедра военная находится	officertraining_def
+как мне заплатить проживание в своем общежитии где это сделать	pay_offline_dorm
+я хочу заплатить за общажную комнату	pay_offline_dorm
+как мне оплатить общажную комнату	pay_offline_dorm
+наличка общага оплатить	pay_offline_dorm
+оплатить общежитие онлайн	pay_online_dorm
+как мне общежитие оплатить онлайн	pay_online_dorm
+оплатить онлайн комнату в общаге	pay_online_dorm
+обходиться нсунет	nsunet_cost
+нсунет стоять	nsunet_cost
+узнать стоимость интернета	nsunet_cost
+где есть стоимость интернета	nsunet_cost
+стоимость повторного курса узнать	price_recourse
+узнать цена повторного курса	price_recourse
+стоимость образования	tuition_fee
+расположен где цена обучения	tuition_fee
+где есть стоимость обучения	tuition_fee
+как можно посидеть после занятий	advice_okno
+где лучше всего провести окно между занятиями скажи плиз	advice_okno
+как и где тут посидеть между лекциями скажи плиз	advice_okno
+перерыв между парами провести	advice_okno
+какое расписание пожалуйста	sched_general
+стоять расписание пар 22298	sched_for_group
+расположен где расписание пар 195219	sched_for_group
+191609 расписание занятий где есть	sched_for_group
+200351 группа расположен где	sched_for_group
+расписание группа 193158	sched_for_group
+расписание группы 19924	sched_for_group
+расписание группа 22386 расположен где	sched_for_group
+20821 расположен где	sched_for_group
+расписание группа 21591 расположен где	sched_for_group
+находится 22358	sched_for_group
+расписание у 22157 группы распологается где	sched_for_group
+расписание группы 214567 расположен где	sched_for_group
+расписание группы 211459 распологается где	sched_for_group
+расписание группы 21917 стоять	sched_for_group
+расположен где расписание у группы 22067	sched_for_group
+находится расписание 209211	sched_for_group
+22350 группа	sched_for_group
+расписание группы 22532	sched_for_group
+расписание 196821 группы распологается где	sched_for_group
+распологается где расписание у группы 22591	sched_for_group
+расписание группы 21710	sched_for_group
+расписание 22348	sched_for_group
+расположен где 20113 группа	sched_for_group
+распологается где расписание группы 21510	sched_for_group
+расписание 205115 группы	sched_for_group
+находится расписание 21905	sched_for_group
+находится 20187	sched_for_group
+расположен где 228483 группа	sched_for_group
+где есть расписание звонков	sched_rings
+сейчас расписание 22298 группы находится	sched_for_group_day
+находится расписание у 194508 группы сб	sched_for_group_day
+вс расписание у группы 22420 находится	sched_for_group_day
+суббота расписание 21508	sched_for_group_day
+среда расписание 222827 группы	sched_for_group_day
+завтра расписание группа 193969 находится	sched_for_group_day
+находится расписание 21150 группы вторник	sched_for_group_day
+расписание у 196618 группы среда	sched_for_group_day
+расписание у группы 21488 вторник	sched_for_group_day
+суббота расписание у группы 195588	sched_for_group_day
+находится расписание у 20994 группы понедельник	sched_for_group_day
+суббота расписание у группы 22701 находится	sched_for_group_day
+сб расписание 22920 находится	sched_for_group_day
+расписание группа 207238 на завтра	sched_for_group_day
+расписание группы 20928 суббота	sched_for_group_day
+суббота расписание 197404 находится	sched_for_group_day
+пт 431862	sched_for_group_day
+чт 744387	sched_for_group_day
+вс 967416	sched_for_group_day
+воскресенье 526094	sched_for_group_day
+пн 31425	sched_for_group_day
+вс 520409	sched_for_group_day
+находится расписание у группы 208665 завтра	sched_for_group_day
+завтра 198758 находится	sched_for_group_day
+сейчас 21715	sched_for_group_day
+вт расписание группы 227469 находится	sched_for_group_day
+без пропуск общаг ехать	dorm_enter_without_pass
+ехать общаг без пропуск	dorm_enter_without_pass
+попасть нгу без пропуск	enter_university_without_pass
+без пропуск университет доехать	enter_university_without_pass
+без пропуск нгу идти	enter_university_without_pass
+без пропуск корпус учебный ехать	enter_university_without_pass
+разрешение на внос оборудования находится	student_union_equipment
+как мне заказать разрешение на внос оборудования	student_union_equipment
+получить разрешение на вход гостей мероприятия	student_union_event_guests
+вход для гостей мероприятия взять	student_union_event_guests
+пропуск для гостей мероприятия стоять	student_union_event_guests
+стоять пропуск для гостей мероприятия	student_union_event_guests
+оформить разрешение на вход гостей мероприятия	student_union_event_guests
+разрешение на вход для гостей мероприятия брать	student_union_event_guests
+вход для гостей мероприятия получать	student_union_event_guests
+заказать пропуск для гостей мероприятия	student_union_event_guests
+разыскать кабинет личный	site_student_cab
+кабинет студента раскопать	site_student_cab
+найти личный кабинет студента	site_student_cab
+распологается где кабинет студента	site_student_cab
+кабинет личный	site_student_cab
+обнаружить сайт библиотеки	site_library
+сайт библиотеки раскопать	site_library
+сайт нгу отыскать	site_nsu
+университет сайт нгу находится	site_nsu
+получить дискаунт на обучение	pay_educ_discount
+дискаунт на обучение хотеть	pay_educ_discount
+уменьшение стоимости обучения получить	pay_educ_discount
+скидка на обучение взять	pay_educ_discount
+брать уменьшение стоимости обучения	pay_educ_discount
+сокращение стоимости обучения требоваться	pay_educ_discount
+брать дискаунт на обучение	pay_educ_discount
+дискаунт на обучение хотелось бы получить	pay_educ_discount
+уменьшение стоимости обучения распологается где	pay_educ_discount
+обучение на бюджете идти	status_free
+бюджет брать	status_free
+место бюджетный пройти	status_free
+место бюджетный получить	status_free
+находится бюджет	status_free
+основа бюджетный доехать	status_free
+бюджет попасть	status_free
+основа бюджетный	status_free
+место бюджетный получать	status_free
+ехать основа бюджетный	status_free
+обучение на бюджете находится	status_free
+обучение бесплатный стоять	status_free
+бюджет стоять	status_free
+где есть wifi университета	wifi
+сеть университетский расположен где	wifi
+подключить вайфай университет	wifi
+взять интернет в университете	wifi
+находится стипендия повышенная	highscholarship
+заказать стипендия повышенная	highscholarship
+стипендия повышенная стоять	highscholarship
+хотеть повышенная государственная академическая стипендия	highscholarship
+получать стипендия повышенная	highscholarship
+хотелось бы получить стипендия повышенная	highscholarship
+стипендия повышенная платить	highscholarship
+оформление пгас находится	highscholarship
+как мне заказать социалка	socscholarship
+социалка оформить	socscholarship
+расположен где соцстипендия	socscholarship
+соцстипендия хотеть	socscholarship
+социалка получаться	socscholarship
+соцстипендия расположен где	socscholarship
+стипендия социальная оформлять	socscholarship
+стипендия социальная где есть	socscholarship
+число экзамен	sched_exam
+расписание экзаменов и зачетов расположен где	sched_exam
+находится экз когда	sched_exam
+распологается где экзам время	sched_exam
+получить расписание экзаменов и зачетов	sched_exam
+расписание экзаменов и зачетов получаться	sched_exam
+проходить экзамен семестровый	sched_exam
+расписание экзаменов и зачетов расположен где	sched_exam
+матмех расположен где	loc_dean_mmf
+факультет механико математический где есть	loc_dean_mmf
+деканат ммф раскопать	loc_dean_mmf
+математический расположен где матмех	loc_dean_mmf
+отыскать деканат мехмата	loc_dean_mmf
+находится факультет математико механический	loc_dean_mmf
+как пройти деканат мехмата	loc_dean_mmf
+деканат ммф расположен где	loc_dean_mmf
+как пройти деканат ммф	loc_dean_mmf
+деканат механико математического факультета расположен где	loc_dean_mmf
+расскажи о себе плиз	smalltalk_name
+скажи кто ты пожалуйста	smalltalk_name
+у тебя есть имя плиз	smalltalk_name
+разыскать офис пропусков	loc_pass_office
+разыскать бюро пропусков	loc_pass_office
+офис пропусков отыскать	loc_pass_office
+бюро пропусков находится	loc_pass_office
+коворкинг находится коворкинг	loc_coworking
+находится коворкинг	loc_coworking
+банкомат попасть	loc_atm
+атм пройти	loc_atm
+атм идти	loc_atm
+ехать банкомат	loc_atm
+разыскать товарищ	find_friends
+отыскать товарищ	find_friends
+распологается где расписание преподавателя	sched_teacher_how
+расписание семинариста где есть	sched_teacher_how
+находится расписание преподавателя	sched_teacher_how
+распологается где столовка в корпусе старом	loc_cafeteria_old_building
+распологается где столовка корпус старый	loc_cafeteria_old_building
+корпус старый бистро расположен где	loc_cafeteria_old_building
+корпус старый кафетерий находится	loc_cafeteria_old_building
+где есть столовка в корпусе старом	loc_cafeteria_old_building
+находится бистро корпус старый	loc_cafeteria_old_building
+столовая в корпусе старом расположен где	loc_cafeteria_old_building
+корпус старый столовка где есть	loc_cafeteria_old_building
+находится кафе корпус старый	loc_cafeteria_old_building
+столовая в корпусе старом находится	loc_cafeteria_old_building
+корпус административный этаж первый ресторан где есть	loc_cafeteria_new_building_1_etage
+находится точка питания корпус административный 1 этаж	loc_cafeteria_new_building_1_etage
+корпус новый этаж первый столовка расположен где	loc_cafeteria_new_building_1_etage
+корпус административный этаж первый столовая найти	loc_cafeteria_new_building_1_etage
+корпус главный 1 этаж столовка распологается где	loc_cafeteria_new_building_1_etage
+корпус новый 1 этаж столовка где есть	loc_cafeteria_new_building_1_etage
+корпус главный 1 этаж кафетерий	loc_cafeteria_new_building_1_etage
+распологается где столовая корпус главный 1 этаж	loc_cafeteria_new_building_1_etage
+1 этаж кафе в корпусе новом находится	loc_cafeteria_new_building_1_etage
+найти кафетерий корпус административный этаж второй	loc_cafeteria_new_building_2_etage
+корпус административный этаж второй точка питания находится	loc_cafeteria_new_building_2_etage
+распологается где столовая корпус главный этаж второй	loc_cafeteria_new_building_2_etage
+находится столовка в корпусе новом 2 этаж	loc_cafeteria_new_building_2_etage
+корпус административный 2 этаж столовка отыскать	loc_cafeteria_new_building_2_etage
+найти кафе корпус новый 2 этаж	loc_cafeteria_new_building_2_etage
+корпус новый этаж второй кафе как пройти	loc_cafeteria_new_building_2_etage
+корпус административный этаж второй точка питания отыскать	loc_cafeteria_new_building_2_etage
+этаж второй поесть в корпусе новом расположен где	loc_cafeteria_new_building_2_etage
+корпус административный этаж третий столовка расположен где	loc_cafeteria_new_building_3_etage
+отыскать кафе корпус новый этаж третий	loc_cafeteria_new_building_3_etage
+расположен где кафетерий корпус административный этаж третий	loc_cafeteria_new_building_3_etage
+столовка корпус новый этаж третий	loc_cafeteria_new_building_3_etage
+этаж третий поесть в корпусе новом находится	loc_cafeteria_new_building_3_etage
+корпус главный 3 этаж кафетерий как пройти	loc_cafeteria_new_building_3_etage
+корпус главный этаж третий столовая расположен где	loc_cafeteria_new_building_3_etage
+отыскать кафетерий корпус новый этаж третий	loc_cafeteria_new_building_3_etage
+корпус административный 3 этаж столовая обнаружить	loc_cafeteria_new_building_3_etage
+корпус новый этаж четвертый столовая расположен где	loc_cafeteria_new_building_4_etage
+как пройти точка питания корпус главный 4 этаж	loc_cafeteria_new_building_4_etage
+корпус административный этаж четвертый столовка корпус новый	loc_cafeteria_new_building_4_etage
+обнаружить кафетерий корпус главный 4 этаж	loc_cafeteria_new_building_4_etage
+где есть кафе корпус административный 4 этаж	loc_cafeteria_new_building_4_etage
+корпус административный 4 этаж кафетерий распологается где	loc_cafeteria_new_building_4_etage
+распологается где бистро корпус административный этаж четвертый	loc_cafeteria_new_building_4_etage
+корпус новый этаж четвертый точка питания	loc_cafeteria_new_building_4_etage
+расположен где поесть в корпусе новом этаж четвертый	loc_cafeteria_new_building_4_etage
+стц отыскать	loc_nsu_cafeteria
+расписание занятий Яхъяева Г.Э.	sched_teacher
+расписание Дебренн М	sched_teacher
+как найти Панин Л.Г.	sched_teacher
+расписание преподавателя Базайкин Я.В.	sched_teacher
+расписание занятий Кузнецов И.С.	sched_teacher
+расписание для Доманов О.А.	sched_teacher
+расписание занятий Мищенко Е.В.	sched_teacher
+где сейчас Артёмкина С.Б.	sched_teacher
+как найти Симонова Н.Б.	sched_teacher
+расписание для Коновов А.В.	sched_teacher
+расписание занятий Рудой Е.М.	sched_teacher
+расписание для Гуляева Л.Ф.	sched_teacher
+расписание Ильичев Л.В.	sched_teacher
+расписание Осташевская Л.А.	sched_teacher
+расписание занятий Карпович В.Н.	sched_teacher
+расписание преподавателя Макаренко Н.И.	sched_teacher
+расписание преподавателя Грибовский А.Г.	sched_teacher
+где сейчас Зыкин В.С.	sched_teacher
+расписание занятий Василевский А.Н.	sched_teacher
+где сейчас Горяченко Е.Е.	sched_teacher
+как найти Николаев И.Б.	sched_teacher
+расписание преподавателя Петрова Э.Д.	sched_teacher
+расписание преподавателя Ильичёва Т.Н.	sched_teacher
+где сейчас Ахметов В.В.	sched_teacher
+как найти Капинос Е.В.	sched_teacher
+расписание для Яковлева О.Е.	sched_teacher
+где сейчас Березин А.Ю.	sched_teacher
+расписание преподавателя Проскурин С.Г.	sched_teacher
+расписание Мажирин Ю	sched_teacher
+как найти Яковлева Т.И.	sched_teacher
+расписание для Буднева Л.В.	sched_teacher
+расписание Юспова А.Т.	sched_teacher
+расписание для Кудинов О.В.	sched_teacher
+расписание для Черемисина Т.П.	sched_teacher
+где сейчас Бажан Н.М.	sched_teacher
+как найти Касьянова И.Р.	sched_teacher
+расписание для Галкина Л.И.	sched_teacher
+расписание для Ильина Т.И.	sched_teacher
+где сейчас Денисов М.Ю.	sched_teacher
+расписание занятий ЮнВ.Ф.	sched_teacher
+расписание Лившиц В.Р.	sched_teacher
+как найти Сабельфельд Ю	sched_teacher
+расписание преподавателя Новопашина Д.С.	sched_teacher
+как найти Хохряков А.Ф.	sched_teacher
+расписание преподавателя Фадеева И.И.	sched_teacher
+расписание преподавателя Орлов И.О.	sched_teacher
+расписание для Трифонов В.А.	sched_teacher
+расписание занятий Микута И.В.	sched_teacher
+расписание занятий Воробьева С.Н.	sched_teacher
+расписание преподавателя Костин А.В.	sched_teacher
+где сейчас Батурина Н.С.	sched_teacher
+расписание для Богомолова А.С.	sched_teacher
+расписание Герасимов Е.Ю.	sched_teacher
+расписание для Губарев В.Ю.	sched_teacher
+где сейчас Басалаев С.Г.	sched_teacher
+расписание преподавателя Яринич Л.А.	sched_teacher
+как найти Ыскак Т.К.	sched_teacher
+расписание занятий Шмакова А.С.	sched_teacher
+где сейчас Зайцев В.Е.	sched_teacher
+расписание для Шубина О.Е.	sched_teacher
+где сейчас Самданов Д.А.	sched_teacher
+как найти Зайнутдинов С.С.	sched_teacher
+как найти Михайлов И.В.	sched_teacher
+как найти Дмитриев А.М.	sched_teacher
+где сейчас Агапов С.В.	sched_teacher
+как найти Порываев А.С.	sched_teacher
+как найти Мошкин Н.П.	sched_teacher
+расписание для Голышев А.А.	sched_teacher
+как найти Лебедева С.Г.	sched_teacher
+расписание занятий Савицкая С.В.	sched_teacher
+расписание для Постовалов С.Н.	sched_teacher
+как найти Истомин М.А.	sched_teacher
+расписание занятий Потапов А.С.	sched_teacher
+расписание Иванишкин Д.С.	sched_teacher
+когда стипендия ожидать	scholarship_payday
+когда стипендия платить	scholarship_payday
+число стипендия переходить	scholarship_payday
+переводить стипендия число	scholarship_payday
+расположен где стипуха время	scholarship_payday
+профсоюз сотрудников вступить	staff_trade_union_enter
+академотпуск ливать	status_akadem
+получить академ	status_akadem
+оформлять академотпуск	status_akadem
+свалить отпуск академический	status_akadem
+отпуск академический заказать	status_akadem
+деканат отчислить	status_kickout
+кабинет декана отчислять	status_kickout
+администрация отчислить	status_kickout
+администрация факультета отчислить	status_kickout
+отчисляться мне нужно	status_leave
+как отчислиться из нгу	status_leave
+отчислиться я	status_leave
+гас брать	stdscholarship
+гас заказать	stdscholarship
+государственная академическая стипендия	stdscholarship
+как взять академическая стипендия	stdscholarship
+оформить гас	stdscholarship
+оформлять государственная академическая стипендия	stdscholarship
+подключить союз профессиональный студентов	student_trade_union_enter
+что делать если потерял свой пропуск	lost_card_general
+потерял свой пропуск	lost_card_general
+карта пластиковая утерять	studentcard_lost
+пропуск цифровой сеять	studentcard_lost
+объединение студенческий нгу расположен где гдепомоги	studentorgs_define
+находится студорганизация	studentorgs_define
+кружок расположен где	studentorgs_define
+студорганизация расположен где	studentorgs_define
+объединение студенческий нгу где есть	studentorgs_define
+организация студенческая находится	studentorgs_define
+отряд студенческий находится	studentorgs_define
+студ организация	studentorgs_define
+льгота на проезд оформлять	studentpass
+проездной льготный как мне заказать	studentpass
+как мне заказать проездной льготный	studentpass
+проездной студенческий оформлять	studentpass
+ммф научрук	superadviser_find_mmf
+найти руководитель научный математический	superadviser_find_mmf
+оформлять справка об успеваемости	transcript
+заказать справка академическая	transcript
+как взять справка о успеваемости	transcript
+оформлять штамп успеваемости	transcript
+трэвел грант где тут находится	travelfinaid_def
+расположен где материальная поддержка дороги	travelfinaid_def
+финансирование на поездку распологается где	travelfinaid_def
+находится трэвел грант	travelfinaid_def
+материальная поддержка дороги расположен где	travelfinaid_def
+оплата поездки распологается где	travelfinaid_def
+хотеть финансирование на поездку	travelfinaid_get
+как мне заказать финансирование на поездку	travelfinaid_get
+трэвел грант брать	travelfinaid_get
+заказать финансовая поддержка поездки	travelfinaid_get
+как мне заказать материальная поддержка дороги	travelfinaid_get
+трэвел грант как получить	travelfinaid_get
+финансовая поддержка поездки как мне заказать	travelfinaid_get
+заказать поддержка на выезд	travelfinaid_get
+как получить оплата дороги	travelfinaid_get
+как получить финансовая поддержка поездки	travelfinaid_get
+ты  бесполезный	smalltalk_abuse
+бот совершено глупый	smalltalk_abuse
+робот не очень глупый	smalltalk_abuse
