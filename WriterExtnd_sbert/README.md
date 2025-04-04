@@ -86,7 +86,7 @@ WriterExtnd_sbert/
 │   ├── Fry.txt
 │   └── author*.txt                                     # Тестовые файлы
 │
-├── writerextnd_bert_v2.ipynb # Jupyter Notebook с кодом
+├── writerextnd_bert_v2.ipynb                           # Jupyter Notebook с кодом
 ├── submission_sbert_chunked_gridsearch.csv             # Результирующий файл с предсказаниями
 └── README.md                                           # Файл с описание проекта
 ```
